@@ -1,0 +1,15 @@
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\bin\Debug\net8.0\DSACoding.exe
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\bin\Debug\net8.0\DSACoding.deps.json
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\bin\Debug\net8.0\DSACoding.runtimeconfig.json
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\bin\Debug\net8.0\DSACoding.dll
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\bin\Debug\net8.0\DSACoding.pdb
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.AssemblyInfoInputs.cache
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.AssemblyInfo.cs
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.csproj.CoreCompileInputs.cache
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.sourcelink.json
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.dll
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\refint\DSACoding.dll
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.pdb
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\DSACoding.genruntimeconfig.cache
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\DSACoding\obj\Debug\net8.0\ref\DSACoding.dll

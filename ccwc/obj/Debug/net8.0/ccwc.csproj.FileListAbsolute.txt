@@ -1,0 +1,15 @@
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\bin\Debug\net8.0\ccwc.exe
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\bin\Debug\net8.0\ccwc.deps.json
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\bin\Debug\net8.0\ccwc.runtimeconfig.json
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\bin\Debug\net8.0\ccwc.dll
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\bin\Debug\net8.0\ccwc.pdb
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.AssemblyInfoInputs.cache
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.AssemblyInfo.cs
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.csproj.CoreCompileInputs.cache
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.sourcelink.json
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.dll
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\refint\ccwc.dll
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.pdb
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ccwc.genruntimeconfig.cache
+c:\Users\SANDEEP\source\repos\CodingChallanges\CodingChallannges\ccwc\obj\Debug\net8.0\ref\ccwc.dll
