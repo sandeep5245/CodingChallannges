@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "ccwc -c test.txt": {
+      "commandName": "Project",
+      "commandLineArgs": "-c test.txt"
+    },
+    "ccwc -l test.txt": {
+      "commandName": "Project",
+      "commandLineArgs": "-l test.txt"
+    },
+    "ccwc -w test.txt": {
+      "commandName": "Project",
+      "commandLineArgs": "-w test.txt"
+    },
+    "ccwc -m test.txt": {
+      "commandName": "Project",
+      "commandLineArgs": "-m test.txt"
+    },
+    "ccwc test.txt": {
+      "commandName": "Project",
+      "commandLineArgs": "test.txt"
+    }
+  }
+}
